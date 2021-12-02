@@ -1,0 +1,52 @@
+
+.section-1{
+    background-color: #96F0B6!important;
+    color: #202F72!important;
+}
+
+.buton{
+    background-color: #202F72!important; 
+  color: #96F0B6!important; 
+ 
+}
+.premium{
+    font-weight: bolder!important;
+    font-size: 4rem!important;
+}
+.section-2{
+    background-color: #F46EBE!important;
+    color: #202F72!important;
+   
+ 
+}
+.section-3{
+    background-color: #2941AB!important;
+    color: #2DE26D;
+}
+.buton-free{
+    background-color: #2DE26D;
+    color: #2941AB!important;
+    font-weight: bolder!important;
+    letter-spacing: 2px;
+}
+
+footer a{
+    text-decoration: none!important;
+    color: white!important;
+}
+footer ul{
+    list-style: none!important;
+}
+footer li{
+    font-weight: bold!important;
+}
+ul li a:hover{
+   color: #2DE26D!important;
+}
+footer .fab{
+    font-size: 3rem!important;
+}
+.footer-spotify{
+    font-size: 2rem!important;
+    font-weight: bold;
+}
